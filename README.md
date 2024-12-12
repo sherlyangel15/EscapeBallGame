@@ -1,2 +1,3 @@
-# EscapeBallGame
- "Escape Ball" is a 2D platformer where players control a ball through 8 progressively challenging levels. The game features smooth controls, a health system, and coins . Players navigate obstacles, avoid traps, and collect items to progress. It showcases Unity development, gameplay mechanics, and level design.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56849ad6cd94b3e5da61954e8a8a266b89d32ef7eb7fa302a081d556b8dcf657
+size 330
